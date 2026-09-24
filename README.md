@@ -33,28 +33,16 @@ personalized learning experience.
 
 ## 🛠️ Tech Stack
 
-  -----------------------------------------------------------------------
-  Technology                          Purpose
-  ----------------------------------- -----------------------------------
-  Python                              Core application development
-
-  Streamlit                           Interactive web application
-
-  LangChain                           RAG pipeline orchestration
-
-  Hugging Face Sentence Transformers  Generating document and query
-                                      embeddings
-
-  ChromaDB                            Vector database and similarity
-                                      search
-
-  PyTorch                             Underlying machine learning
-                                      framework
-
-  Unstructured                        PDF document processing
-
-  python-dotenv                       Environment variable management
-  -----------------------------------------------------------------------
+| Technology | Purpose |
+| --- | --- |
+| Python | Core application development |
+| Streamlit | Interactive web application |
+| LangChain | RAG pipeline orchestration |
+| Hugging Face Sentence Transformers | Generating document and query embeddings |
+| ChromaDB | Vector database and similarity search |
+| PyTorch | Underlying machine learning framework |
+| Unstructured | PDF document processing |
+| python-dotenv | Environment variable management |
 
 ------------------------------------------------------------------------
 
